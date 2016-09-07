@@ -1,2 +1,2 @@
 FROM alpine
-RUN date > /nihar/datefile
+RUN date > /datefile
